@@ -12,7 +12,7 @@ body {
   height: 100vh;
 }
 
-.game-board {
+#game-board {
   --cell-size: 12vmin;
   --cell-gap: 1vmin;
   display: grid;
